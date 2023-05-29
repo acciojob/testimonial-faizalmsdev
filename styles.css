@@ -19,6 +19,9 @@
     position: relative;
     right:-450px;
 } */
+#name{
+	font-style:italic;
+}
 h1{
 	margin:10px;
 	padding-top:10px;
